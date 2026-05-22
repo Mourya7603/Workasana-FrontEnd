@@ -6,6 +6,12 @@ A full-featured project management and team collaboration platform. Workasana he
 
 ---
 
+## Demo Video
+Watch a walkthrough (5–7 minutes) of all major features of this app:  
+[Video Link](https://drive.google.com/file/d/1i7ChgMUPB10kfMQNDw6jNCDGXLwahU-a/view?usp=drive_link) 
+
+---
+
 ## ✨ Features
 
 ### Core Functionality
